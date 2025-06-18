@@ -1,0 +1,1 @@
+Nesse repositório eu criei a parte da API, que se integra com a interface, a API foi construida com Express, utilizando MongoDB como banco de dados NoSQL, Nno formato de dados, e JSON para a troca de informações entre o front e o back.
